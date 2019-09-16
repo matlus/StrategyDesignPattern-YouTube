@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorting", "Sorting\Sorting.csproj", "{F79C4612-FF79-4977-9521-F678AC1AA1E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thumbnailer", "Thumbnailer\Thumbnailer.csproj", "{C4AEE285-CDA3-4226-8154-A918E280D261}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication1", "WindowsFormsApplication1\WindowsFormsApplication1.csproj", "{B68D1044-BDDC-4102-A330-874AFF2528C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F79C4612-FF79-4977-9521-F678AC1AA1E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F79C4612-FF79-4977-9521-F678AC1AA1E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F79C4612-FF79-4977-9521-F678AC1AA1E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F79C4612-FF79-4977-9521-F678AC1AA1E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4AEE285-CDA3-4226-8154-A918E280D261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4AEE285-CDA3-4226-8154-A918E280D261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4AEE285-CDA3-4226-8154-A918E280D261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4AEE285-CDA3-4226-8154-A918E280D261}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B68D1044-BDDC-4102-A330-874AFF2528C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B68D1044-BDDC-4102-A330-874AFF2528C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B68D1044-BDDC-4102-A330-874AFF2528C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B68D1044-BDDC-4102-A330-874AFF2528C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
